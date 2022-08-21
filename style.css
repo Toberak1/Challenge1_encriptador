@@ -60,7 +60,7 @@ main {
     margin-top: 20px;
     margin-left: auto;
     margin-right: auto;
-    background-image: url(".../imagenes/Muñeco.png");
+    background-image: url(imagenes/Muñeco.png);
     background-repeat: no-repeat;
     background-position: 18px;
     background-size: 300px;
